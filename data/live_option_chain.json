@@ -1,1 +1,45 @@
+{
+  "records": {
+    "data": [
+      {
+        "strikePrice": 24000,
+        "CE": {
+          "strikePrice": 24000,
+          "expiryDate": "11-Jul-2024",
+          "lastPrice": 185.0,
+          "impliedVolatility": 12.3,
+          "delta": 0.52,
+          "theta": -6.5
+        },
+        "PE": {
+          "strikePrice": 24000,
+          "expiryDate": "11-Jul-2024",
+          "lastPrice": 98.0,
+          "impliedVolatility": 13.1,
+          "delta": -0.48,
+          "theta": -5.1
+        }
+      },
+      {
+        "strikePrice": 24100,
+        "CE": {
+          "strikePrice": 24100,
+          "expiryDate": "11-Jul-2024",
+          "lastPrice": 135.0,
+          "impliedVolatility": 11.9,
+          "delta": 0.45,
+          "theta": -5.9
+        },
+        "PE": {
+          "strikePrice": 24100,
+          "expiryDate": "11-Jul-2024",
+          "lastPrice": 120.0,
+          "impliedVolatility": 13.8,
+          "delta": -0.54,
+          "theta": -5.7
+        }
+      }
+    ]
+  }
+}
 
